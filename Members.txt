@@ -4,6 +4,6 @@ Michael Strauss
  
 MEMBER 2 NAME
  
-MEMBER 3 NAME
+Ben
  
 MEMBER 4 NAME
